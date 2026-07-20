@@ -2,7 +2,7 @@
 
 Public legal pages for **Nutrics** (App Store privacy policy).
 
-This repository is intentionally separate from the private app source (`LyonCarrey/MyBody`).
+This repository is intentionally separate from the private app source (`LyonCarrey/Nutrics`).
 
 ## Privacy Policy URL (for App Store Connect)
 
