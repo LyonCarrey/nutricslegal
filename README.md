@@ -1,13 +1,13 @@
-# frametrics-legal
+# Nutrics-legal
 
 Public legal pages for **Nutrics** (App Store privacy policy).
 
-This repository is intentionally separate from the private app source (`LyonCarrey/MyBody`).
+This repository is intentionally separate from the private app source (`LyonCarrey/Nutrics`).
 The GitHub repo / Pages path name is historical; the product brand is **Nutrics**.
 
 ## Privacy Policy URL (for App Store Connect)
 
-**https://lyoncarrey.github.io/frametrics-legal/**
+**https://lyoncarrey.github.io/Nutrics-legal/**
 
 ## Support email
 
