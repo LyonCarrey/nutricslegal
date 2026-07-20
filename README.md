@@ -1,13 +1,12 @@
-# Nutrics-legal
+# nutrics-legal
 
 Public legal pages for **Nutrics** (App Store privacy policy).
 
-This repository is intentionally separate from the private app source (`LyonCarrey/Nutrics`).
-The GitHub repo / Pages path name is historical; the product brand is **Nutrics**.
+This repository is intentionally separate from the private app source (`LyonCarrey/MyBody`).
 
 ## Privacy Policy URL (for App Store Connect)
 
-**https://lyoncarrey.github.io/Nutrics-legal/**
+**https://lyoncarrey.github.io/nutrics-legal/**
 
 ## Support email
 
